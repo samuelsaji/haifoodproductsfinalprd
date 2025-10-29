@@ -1071,6 +1071,12 @@ h2.widget-title {
   color: #fff;
 }
 
+.codescape-font {
+  font-family: 'Arkhip', sans-serif;
+}
+
+
+
 h2.widget-title:after {
   position: absolute;
   left: 0;
